@@ -2,10 +2,14 @@
 Social Media design project
 
 In order to install the required npm modules for the server type npm install while in the same directory as the server and package.json file.
-If this does not install all the required modules the commands to install them serperatley are,
+If this does not install all the required modules the commands to install them serperatley are:
+
 npm install express
+
 npm install body-parser
+
 npm install geolocation
+
 npm install express-json
 
 
