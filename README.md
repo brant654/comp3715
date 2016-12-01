@@ -15,7 +15,7 @@ npm install express-json
 
 Once these modules are installed you can use the command node server.js to start the server. Node must be installed in order to run the server.
 
-To run it from a machine locally make sure in the server file the line app.listen(8888); has 8888 inside the brackets. Then in a browser type localhost:8888. The hosted site link is sc-3.cs.mun.ca.
+To run it from a machine locally make sure in the server file the line app.listen(8888); has 8888 inside the brackets. Then in a browser type localhost:8888 (will be 8888 by default). The hosted site link is sc-3.cs.mun.ca.
 
 The home page contains all 10 members on the site. Each member has the ability to pick from a list of friends to add and can also delete any friends they have. This is done by the use of drop down lists and buttons. The same friend can not be added twice to the page as per the code (since it does not make sense to be able to add the same friend twice) and a warning that you tried will appear in the server. The node.js keeps track of each members friends list so they stay persistent. Each member also has their own location page which stores their own location and the location of their friends in the table below the map. The location for all members is stored persistenly which is then compared against the users friend list and outputs their friends locations in the table. For users they have the option of storing their true location and several other locations around St. John's by a drop down menu and button.
 
