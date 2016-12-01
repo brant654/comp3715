@@ -1,7 +1,7 @@
 # comp3715
 Social Media design project
 
-In order to install the required npm modules for the server type npm install while in the same directory as the server and package.json file.
+In order to install the required npm modules for the server type npm install while in the same directory as the server and package.json file. 
 If this does not install all the required modules the commands to install them serperatley are:
 
 npm install express
@@ -12,6 +12,7 @@ npm install geolocation
 
 npm install express-json
 
+There is also a zip file called Website project zip located on the github which contains all the files and modules required to run the server.
 
 Once these modules are installed you can use the command node server.js to start the server. Node must be installed in order to run the server.
 
