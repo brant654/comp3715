@@ -22,4 +22,7 @@ The home page contains all 10 members on the site. Each member has the ability t
 
 The website is built around the idea of displaying on a mobile browser along with desktop so the website will scale for size to allow the pages to be easily viewable on mobile or desktop devices.
 
+As of submission add friend, delete friend and location map works for all members. Locally there seems to be no problems running
+on any browser but on the mun server it seems as chrome may have a problem displaying map. Firefox seems to work fine.
+
 Website work was completed by Josh, Mahamad and Anush.
